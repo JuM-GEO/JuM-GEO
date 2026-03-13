@@ -24,7 +24,17 @@ An end-to-end analytical project exploring Melbourne’s rental housing market u
 ### Australian Energy Market Spatial Analysis (GIS, SQL & PostGIS) – In Progress
 A spatial analytics project focused on exploring energy infrastructure and market data in Australia, integrating GIS, SQL and PostGIS to support spatial querying, data integration and analytical insights relevant to energy planning and infrastructure decision-making.
 
-**Technologies:** SQL, PostGIS, PostgreSQL, GIS, Python (planned)
+**Technologies:** SQL, PostGIS, PostgreSQL, QGIS, Python (planned)
+
+### Melbourne Mobility Analysis – In Progress
+Conducting a spatial analysis of Melbourne's public transportation network to identify connectivity and coverage gaps, optimize routes, and evaluate accessibility for diverse communities. Applied advanced GIS analytics and data modeling to support decision-making for transport planning.
+
+**Technologies:** SQL, PostGIS, PostgreSQL, QGIS, Python, Domain-Driven Design (DDD)
+
+### Automation of GIS Workflows and Map Production (Private Project)
+Designed and implemented automated GIS workflows and map production pipelines for environmental due diligence, improving efficiency, consistency, and scalability of spatial outputs. Leveraged a layered Python architecture to streamline data processing and map generation while ensuring high-quality results.
+
+**Technologies:** Python, QGIS, layered architecture, automation
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/juliana-c-mantovani
